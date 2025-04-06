@@ -1,1 +1,13 @@
-# Business-Management-System
+# Brand Management System
+
+نظام شامل لإدارة الأعمال يشمل:
+- إدارة المصروفات
+- إدارة الإيرادات
+- إدارة المبيعات
+- إدارة المخزون
+- إدارة العملاء
+
+## طريقة التشغيل
+1. ثبت المتطلبات `pip install -r requirements.txt`
+2. شغل النظام `python run.py`
+3. افتح المتصفح على `http://localhost:5000`
